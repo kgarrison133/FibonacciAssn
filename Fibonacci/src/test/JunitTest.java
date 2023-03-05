@@ -10,7 +10,7 @@ class JunitTest {
 	void test() {
 		Junit test = new Junit();
 		int res = test.fibRec(10);
-		assertEquals(5, res); 
+		assertEquals(55, res); 
 	}
 
 }
